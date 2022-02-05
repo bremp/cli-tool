@@ -1,6 +1,6 @@
 {
   "name": "@bremp/cli-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Who wants to be a Javascript millionaire?",
   "main": "index.js",
   "type": "module",
